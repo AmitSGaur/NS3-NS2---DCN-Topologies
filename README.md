@@ -15,8 +15,8 @@ Step 2: copy the two files in Hypercube-DNS-topology.cc,torus-3d.cc,torus-3d.h p
 
 Step 3: run this 2 files Hypercube-DNS-topology.cc and torus-3d.cc (for eg: ./waf --run Hypercube-DNS-topology  and ./waf --run torus-3d)
 
-Step 4: run NetAnim (use command :./NetAnim [location is :ns-allinone-3.23/netanim-3.106]).After Browse and give the HyperCube16node.anim.xml 
+Step 4: run NetAnim (use command :./NetAnim [location is :ns-allinone-3.23/netanim-3.106]).After Browse and give the HyperCube16node.anim.xml and torus-3d-DNS.anim.xml and-then run
 
-       and torus-3d-DNS.anim.xml and-then run
+     
 
              
